@@ -29,3 +29,4 @@ def root():
 
 #inclusão das rotas:
 app.include_router(erros.router)
+app.include_router(tutoriais.router)
