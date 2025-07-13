@@ -5,7 +5,7 @@ Este projeto foi criado com o objetivo de reunir e organizar os erros mais comun
 Você encontrará:
 - 📋 Registros de erros com descrição, solução e palavras-chave.
 - 📚 Tutoriais como "Como iniciar um projeto em React" ou "Configurando um projeto FastAPI".
-- 🔎 Filtros por categoria (Front ou Back), pesquisa por palavras-chave e identificação de erros relacionados a **proxy** (bem frequente na minha empresa 😉).
+- 🔎 Filtros por categoria (Front ou Back), pesquisa por palavras-chave e identificação de erros relacionados a **proxy**.
 
 ---
 
