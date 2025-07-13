@@ -13,9 +13,9 @@ Você encontrará:
 
 1. Crie e ative um ambiente virtual:
    ```bash
-   python -m venv .venv
+   python -m venv env
    source .venv/bin/activate  # Linux/macOS
-   .venv\Scripts\activate      # Windows
+   cd env\Scripts\activate      # Windows
 
 2. Instale as dependências
    ```bash
